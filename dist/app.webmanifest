@@ -1,0 +1,36 @@
+{
+  "id": "Madang-v1",
+  "start_url": "./index.html",
+  "name": "MADANG",
+  "short_name": "Madang",
+  "description": "",
+  "display": "standalone",
+  "background_color": "#121e27",
+  "theme_color": "#121e27",
+  "icons": [
+    {
+      "src": "/icon/ms-icon-70x70.png",
+      "sizes": "70x70",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon/ms-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon/ms-icon-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon/ms-icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
